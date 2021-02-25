@@ -60,15 +60,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-New tehnologies are comming and with them new possibillities, so here we are working on self sovereign identity, for enabeling end users to create their own identiti and with that to give them oportunity to gain controll over personal data (age, contact data, hobbies, ect.).
+This project is showcase how need to be implemented our [Aceblock OIDC client](https://github.com/aceblockID/aceblock-OIDC-client) npm package, to work properly.
 
-This project is just tiny part of the whole structure and enables businessess to easily implement register and login  of the potential customer into their web portals. At the same tame it makes it easi to implement authentication an authorisation of customers on any web app endpoint.
-
-Here's how login and register works for user:
-* User installs our Aceblock IDentity app on their mobile phone and creates their identity by entering their data 
-* Business creates Aceblock IDentity for their domain/web portal
-* Business installs aceblock-login-npm-example npm package and enters formerly created ID (detaild instructions for implementing are [here][instalation instructions])
-* User opens businesses login/register page -> qr code shows -> user scans qr code with his web app and confirms connection and Voilà - User is registered and loged in to the web portal - web page automaticaly redirects from login page to user page
 
 ### Built With
 
@@ -94,16 +87,7 @@ Befor you start setting up the project you need to install:
 
 ### Installation
 
-
-1. Get a free API Key at [https://example.com](https://example.com)
-   ```sh
-   git clone https://github.com/aceblockID/aceblock-login-npm-example.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-
+Empty template of this project with detailed instructions for instalation [here](https://github.com/aceblockID/aceblock-login-npm-template).
 
 
 <!-- USAGE EXAMPLES -->
